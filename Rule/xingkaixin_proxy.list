@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,dlercloud.me
+DOMAIN-SUFFIX,ssrcloud.org
+DOMAIN-SUFFIX,apkpure.com
+# > Exclusions
+DOMAIN,analytics.google.com
+DOMAIN,analyticsinsights-pa.googleapis.com
+DOMAIN,analyticsreporting.googleapis.com
