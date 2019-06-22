@@ -1,3 +1,10 @@
+# > HBO NOW & HBO GO
+USER-AGENT,HBO%20NOW*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,nowestatic.com
 DOMAIN-SUFFIX,webtvapi.nowe.com
 DOMAIN-SUFFIX,nowe.com
