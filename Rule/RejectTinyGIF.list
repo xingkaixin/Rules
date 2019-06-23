@@ -1,4 +1,3 @@
 # > BiliBili
-DOMAIN,dataflow.biliapi.com
 DOMAIN,data.bilibili.com
 URL-REGEX,http://app.bilibili.com/x/v2/dataflow/report
