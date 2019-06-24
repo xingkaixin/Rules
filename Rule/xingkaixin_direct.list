@@ -8,3 +8,4 @@ DOMAIN,api.dizhensubao.igexin.com
 DOMAIN-SUFFIX,vd.l.qq.com
 PROCESS-NAME,Python
 PROCESS-NAME,ss-local
+PROCESS-NAME,Paw
