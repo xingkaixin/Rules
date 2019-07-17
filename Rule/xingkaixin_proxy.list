@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,apkpure.com
 DOMAIN,analytics.google.com
 DOMAIN,analyticsinsights-pa.googleapis.com
 DOMAIN,analyticsreporting.googleapis.com
+# > Tiktok
+DOMAIN,api-h2.tiktokv.com
