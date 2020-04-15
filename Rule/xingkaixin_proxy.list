@@ -6,3 +6,5 @@ DOMAIN,analytics.google.com
 DOMAIN,analyticsinsights-pa.googleapis.com
 DOMAIN,analyticsreporting.googleapis.com
 DOMAIN-SUFFIX,oracle.com
+DOMAIN,officecdn-microsoft-com.akamaized.net
+DOMAIN,self.events.data.microsoft.com
