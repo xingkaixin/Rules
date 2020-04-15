@@ -2,4 +2,4 @@
 #!desc=Use Direct
 
 [Rule]
-DOMAIN-SUFFIX,apple.com,DIRECT
+DOMAIN-SUFFIX,apple.com,🔰️ PROXY
