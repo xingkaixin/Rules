@@ -8,3 +8,4 @@ DOMAIN,analyticsreporting.googleapis.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,self.events.data.microsoft.com
+AND,((DOMAIN-SUFFIX,apple.com.cn), (GEOIP,US))
