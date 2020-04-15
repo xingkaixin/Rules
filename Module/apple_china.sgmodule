@@ -1,0 +1,5 @@
+#!name=Apple China
+#!desc=Use Direct
+
+[Rule]
+DOMAIN-SUFFIX,apple.com,DIRECT
