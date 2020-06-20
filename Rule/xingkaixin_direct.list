@@ -3,8 +3,8 @@
 # DOMAIN-SUFFIX,yinxiang.com
 #去苹果店现场预约时遇到的 503 问题，把这个域名加入规则访问正常。
 DOMAIN,reserve-prime.apple.com
-DOMAIN,api.dizhensubao.igexin.com
-DOMAIN-SUFFIX,vd.l.qq.com
+# DOMAIN,api.dizhensubao.igexin.com
+# DOMAIN-SUFFIX,vd.l.qq.com
 # PROCESS-NAME,Python
 PROCESS-NAME,ss-local
 PROCESS-NAME,Paw
