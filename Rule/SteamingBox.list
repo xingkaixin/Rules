@@ -1,3 +1,2 @@
 AND,((SRC-IP,192.168.1.206), (GEOIP,CN))
-AND,((SRC-IP,192.168.1.206), (RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_CDN.list))
-AND,((SRC-IP,192.168.1.206), (RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_API.list))
+AND,((SRC-IP,192.168.1.206), https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/TV.list
