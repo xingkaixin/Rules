@@ -1,0 +1,5 @@
+# > OpenAI
+DOMAIN-SUFFIX,http://openai.com,OPENAI
+DOMAIN-SUFFIX,http://openaiapi-site.azureedge.net,OPENAI
+DOMAIN-SUFFIX,http://identrust.com,OPENAI
+DOMAIN-SUFFIX,http://auth0.com,OPENAI
